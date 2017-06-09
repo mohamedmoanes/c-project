@@ -1,0 +1,24 @@
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\bin\Debug\bf.exe.config
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\bin\Debug\bf.exe
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\bin\Debug\bf.pdb
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.csprojResolveAssemblyReference.cache
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.Form1.resources
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.Properties.Resources.resources
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.csproj.GenerateResource.Cache
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.exe
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.pdb
+c:\users\kalo0osha\documents\visual studio 2012\Projects\bf\bf\obj\Debug\bf.Form2.resources
+C:\Users\kalo0osha\Documents\Visual Studio 2012\Projects\bf\bf\obj\Debug\bf.Form3.resources
+C:\Users\kalo0osha\Documents\Visual Studio 2012\Projects\bf\bf\obj\Debug\bf.Form4.resources
+D:\New folder\bf\bf\bin\Debug\bf.exe.config
+D:\New folder\bf\bf\obj\Debug\bf.exe
+D:\New folder\bf\bf\obj\Debug\bf.pdb
+D:\New folder\bf\bf\bin\Debug\bf.exe
+D:\New folder\bf\bf\bin\Debug\bf.pdb
+D:\New folder\bf\bf\obj\Debug\bf.csprojResolveAssemblyReference.cache
+D:\New folder\bf\bf\obj\Debug\bf.Form1.resources
+D:\New folder\bf\bf\obj\Debug\bf.Form2.resources
+D:\New folder\bf\bf\obj\Debug\bf.Form3.resources
+D:\New folder\bf\bf\obj\Debug\bf.Form4.resources
+D:\New folder\bf\bf\obj\Debug\bf.Properties.Resources.resources
+D:\New folder\bf\bf\obj\Debug\bf.csproj.GenerateResource.Cache
